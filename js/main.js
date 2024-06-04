@@ -5,6 +5,11 @@
 // btn.addEventListener('click', () => {
 //     img.setAttribute('src', input.value)
 // })
+
+
+
+
+
 let fon = prompt('Orqa fon tanlang')
 let tex = prompt('Text rangini tanlang')
 
